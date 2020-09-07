@@ -30,7 +30,7 @@ A wrapper around InheritedWidget to make them easier to use and more reusable. A
 
 - [Hive](https://github.com/hivedb/hive)
 
-  Hive is a lightweight and blazing fast key-value database written in pure Dart.
+Hive is a lightweight and blazing fast key-value database written in pure Dart.
 
 - [Http](https://pub.dev/packages/http)
 
