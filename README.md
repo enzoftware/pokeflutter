@@ -9,6 +9,15 @@
 - Home - List of 100 pokemons.
 - Detail - Some extra information about the selected pokemon.
 
+## Run locally
+
+Run the following comomands inside the root project.
+
+```zsh
+flutter pub get
+flutter run
+```
+
 ## Dependencies
 
 - [GetIt](https://pub.dev/packages/get_it)
@@ -20,6 +29,7 @@ This is a simple Service Locator for Dart and Flutter projects.
 A wrapper around InheritedWidget to make them easier to use and more reusable. A simplified strategy for state managment.
 
 - [Hive](https://github.com/hivedb/hive)
+
   Hive is a lightweight and blazing fast key-value database written in pure Dart.
 
 - [Http](https://pub.dev/packages/http)
