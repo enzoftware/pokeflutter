@@ -29,6 +29,7 @@ class LoginScreen extends StatelessWidget {
             SizedBox(height: 32),
             TextField(
               controller: passwordController,
+              obscureText: true,
               decoration: InputDecoration(
                 border: OutlineInputBorder(
                   borderSide: BorderSide(color: Colors.red, width: 5.0),
